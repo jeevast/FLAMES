@@ -1,4 +1,3 @@
-package apriorialg;
 
 import java.util.Scanner;
 
